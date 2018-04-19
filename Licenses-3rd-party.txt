@@ -1,0 +1,54 @@
+﻿This document contains the list of Third Party Software included with
+Asset Tracking Node server, along with the license information.
+
+Third Party Software may impose additional restrictions and it is the
+user's responsibility to ensure that they have met the licensing
+requirements of WebApp and the relevant license of the Third Party
+Software they are using.
+
+applicationinsights  0.21.0
+url - https://www.npmjs.com/package/applicationinsights
+License - MIT
+Reference - https://github.com/Microsoft/ApplicationInsights-node.js/blob/develop/LICENSE
+
+azure 0.10.6
+url - https://www.npmjs.com/package/azure
+License - MIT
+Reference - https://github.com/azure/azure-sdk-for-node
+
+azure-event-hubs 0.0.8
+url - https://www.npmjs.com/package/azure-event-hubs
+License - MIT
+Reference - https://github.com/Azure/azure-event-hubs/blob/master/LICENSE
+
+bluebird 3.5.0
+url - https://www.npmjs.com/package/bluebird
+License - MIT
+Reference - https://github.com/petkaantonov/bluebird/blob/master/LICENSE
+
+express 4.14.1
+url - https://www.npmjs.com/package/express
+License - MIT
+Reference - https://github.com/expressjs/express/blob/master/LICENSE
+
+lodash 4.17.4
+url - https://www.npmjs.com/package/lodash
+License - MIT
+Reference - https://github.com/lodash/lodash/blob/master/LICENSE
+
+moment 2.17.1
+url - https://www.npmjs.com/package/moment
+License - MIT
+Reference - https://github.com/moment/moment/blob/develop/LICENSE
+
+socket.io  2.0.3
+url - https://www.npmjs.com/package/socket.io
+License - MIT
+Reference - https://github.com/socketio/socket.io/blob/master/LICENSE
+
+ws 2.1.0
+url - https://www.npmjs.com/package/ws
+License - MIT
+Reference - https://github.com/websockets/ws/blob/master/LICENSE
+
+

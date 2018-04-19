@@ -1,0 +1,20 @@
+{
+  "name": "assetnodeserver",
+  "version": "0.0.0",
+  "description": "assetnodeserver",
+  "main": "server.js",
+  "author": {
+    "name": "JayeshL"
+  },
+  "dependencies": {
+    "applicationinsights": "^0.21.0",
+    "azure": "^0.10.6",
+    "azure-event-hubs": "0.0.8",
+    "bluebird": "^3.5.0",
+    "express": "~4.14.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "socket.io": "^2.0.3",
+    "ws": "^2.1.0"
+  }
+}
